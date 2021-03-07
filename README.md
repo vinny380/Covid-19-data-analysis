@@ -7,13 +7,16 @@
 # Vinícius Porfirio Purgato
 <sub>*Data Scientist*</sub>
 
-This project is a Data Analysis I did for violence rate in the state of Rio de Janeiro. <br>
-All of the data is public and distributed by Rio's government [here](http://www.ispdados.rj.gov.br/estatistica.html), they also got a [dashboard](http://www.ispvisualizacao.rj.gov.br/index.html). <br>
+In this project, I analyzed [data](https://github.com/owid/covid-19-data/tree/master/public/data) from Our World in Data, and took some vailable insights from it, some of them are:
+* The day we had more deaths was January 20th, 2021, the pandemic hasn't gotten better.
+* Burundi is the country with the least death per million people, even though they have 11.5M living there.
+* Qatar has the world's highest GDP per capita.
+* The USA is the country with the highest amount of death.
+* Israel is the place with most vaccinated people, taking in consideration the nations size.
+* Canada had its death rate by Covid-19 increasing, until vaccination started to take place, then it dropped drastically.
+* Central African Republic has the lowest GDP per capita in the world, however it had only 63 deaths out of 5M people living there.
 <br>
-In this notebook we could see how crimes and violence in general have been rising (or not) in Rio de Janeiro, the Wonderful City.<br>
-A considerable amount of data was missing, therefore I had to fill NaN values.<br>
-I hope you enjoy my notebook.
-<br>
+
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-porfirio-purgato-7891401b3/)
