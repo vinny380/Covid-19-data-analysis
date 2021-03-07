@@ -7,7 +7,7 @@
 # Vinícius Porfirio Purgato
 <sub>*Data Scientist*</sub>
 
-In this project, I analyzed [data](https://github.com/owid/covid-19-data/tree/master/public/data) from Our World in Data, and took some vailable insights from it, some of them are:
+In this project, I analyzed [data](https://github.com/owid/covid-19-data/tree/master/public/data) from *Our World in Data*, and took some vailable insights from it, some of them are:
 * The day we had more deaths was January 20th, 2021, the pandemic hasn't gotten better.
 * Burundi is the country with the least death per million people, even though they have 11.5M living there.
 * Qatar has the world's highest GDP per capita.
